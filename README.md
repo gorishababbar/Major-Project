@@ -18,7 +18,8 @@ google drive link to which will soon be given.
 ### Information on the **Model** used
 For this project, I implemented and evaluated two different machine learning models:
 
-1️. **Support Vector Machine (SVM)**
-2️. **Multi-Layer Perceptron (MLP)**
+1. **Support Vector Machine (SVM)**
+2. **Multi-Layer Perceptron (MLP)**
+
 Both models were compared based on their accuracy to determine the best-performing approach for the given dataset and actually, both worked very well giving above 99 percent accuracy.
 
